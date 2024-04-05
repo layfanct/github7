@@ -1,2 +1,2 @@
-### Clase 7
+# Clase 7
 ## github 7
